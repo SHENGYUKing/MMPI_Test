@@ -18,11 +18,10 @@
 
 ## 相关资料与引用文献：
 
->[1] Schiele, B. C.; Baker, A. B.; Hathaway, S. R. (1943). "The Minnesota multiphasic personality inventory". Journal-Lancet (63): 292–297. ISSN 0096-0233.<br>
->[2] Hathaway, S. R., & McKinley, J. C. (1940). A multiphasic personality schedule(Minnesota): I. Construction of the schedule. Journal of Psychology, 10, 249-254.<br>
->[3] Hathaway, S. R., & McKinley, J. C. (1942). A multiphasic personality schedule (Minnesota): II. A differential study of hypochondriasis. Journal of Psychology, 10,255-268.<br>
->[4] McKinley, J. C, & Hathaway, S. R. (1940). A multiphasic personality schedule (Minnesota): III. The measurement of symptomatic depression. Journal of Psychology, 14, 73-84.<br>
->[5] McKinley, J. C, & Hathaway, S. R. (1942). A multiphasic personality schedule (Minnesota): IV. Psychasthenia. Journal of Applied Psychology, 26, 614-624.<br>
->[6] McKinley, J. C, & Hathaway, S. R. (1944). A multiphasic personality schedule (Minnesota): V. Hysteria, Hypomania, and Psychopathic Deviate. Journal of Applied Psychology, 28, 153-174.<br>
+>[1] Schiele, B. C.; Baker, A. B.; Hathaway, S. R. (1943). "The Minnesota multiphasic personality inventory"[J]. Journal-Lancet (63): 292–297. ISSN 0096-0233.<br>
+>[2] Hathaway, S. R., & McKinley, J. C. (1940). A multiphasic personality schedule(Minnesota): I. Construction of the schedule[J]. Journal of Psychology, 10, 249-254.<br>
+>[3] Hathaway, S. R., & McKinley, J. C. (1942). A multiphasic personality schedule (Minnesota): II. A differential study of hypochondriasis[J]. Journal of Psychology, 10,255-268.<br>
+>[4] McKinley, J. C, & Hathaway, S. R. (1940). A multiphasic personality schedule (Minnesota): III. The measurement of symptomatic depression[J]. Journal of Psychology, 14, 73-84.<br>
+>[5] McKinley, J. C, & Hathaway, S. R. (1942). A multiphasic personality schedule (Minnesota): IV. Psychasthenia[J]. Journal of Applied Psychology, 26, 614-624.<br>
+>[6] McKinley, J. C, & Hathaway, S. R. (1944). A multiphasic personality schedule (Minnesota): V. Hysteria, Hypomania, and Psychopathic Deviate[J]. Journal of Applied Psychology, 28, 153-174.<br>
 >[7] 纪术茂, 戴郑生. 明尼苏达多项人格调查表——最新研究与多类量表解释[M].北京: 科学出版社, 2004.  
-  
